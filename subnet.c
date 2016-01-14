@@ -3,7 +3,7 @@
 /*                                                  */
 /* Ip Subnetting Calculator                         */
 /*                                                  */
-/* Approximate completion time: 4:20pm              */
+/* Approximate completion time: IN PROGRESS         */
 /****************************************************/
 
 #include <stdio.h>
